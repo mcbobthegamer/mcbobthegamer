@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcbobthegamer
 - 🎮 My minecraft is mcbobthegamer
 - 🎈 My discord is mcbobthegamer#3709
-- 👀 I’m a sr developer for the coldwonder network
+- 👀 I’m the head developer for the coldwonder network
 - 💞️ I’m looking to collaborate on fun projects and skripts
 - 📫 How to reach me: discord
