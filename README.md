@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @mcbobthegamer
-- 🎮 My minecraft is mcbobthegamer
-- 🎈 My discord is mcbobthegamer#3709
-- 💞️ I’m looking to collaborate on fun projects and skripts, I will make you a discord bot if you ask me to make you one
-- 📫 How to reach me: discord
+GET RICK ROLLED
